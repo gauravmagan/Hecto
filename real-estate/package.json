@@ -1,0 +1,13 @@
+{
+  "name": "real-estate",
+  "version": "1.0.0",
+  "description": "this is a file ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "working!!"
+  },
+  "author": "",
+  "license": "ISC"
+}
